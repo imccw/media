@@ -7,3 +7,4 @@ https://raw.githubusercontent.com/imccw/media/refs/heads/main/direct-page/suhaim
 https://raw.githubusercontent.com/imccw/media/refs/heads/main/direct-page/suhaimisapiee/suhaimi.webp
 
 https://raw.githubusercontent.com/imccw/media/refs/heads/main/mtet/payment-proof/JEM55961_15000.jpeg
+https://raw.githubusercontent.com/imccw/media/refs/heads/main/direct-page/rawjaarchery/kelas_mingguan_1.jpeg
