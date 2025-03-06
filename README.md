@@ -9,3 +9,10 @@ https://raw.githubusercontent.com/imccw/media/refs/heads/main/direct-page/suhaim
 https://raw.githubusercontent.com/imccw/media/refs/heads/main/mtet/payment-proof/JEM55961_15000.jpeg https://raw.githubusercontent.com/imccw/media/refs/heads/main/direct-page/rawjaarchery/kelas_mingguan_1.jpeg
 
 https://raw.githubusercontent.com/imccw/media/refs/heads/main/mrsabah-hotel-system-admin/am.webp
+
+https://raw.githubusercontent.com/imccw/media/refs/heads/main/direct-page/pifindustries/pif1.jpg
+https://raw.githubusercontent.com/imccw/media/refs/heads/main/direct-page/pifindustries/m3.jpg
+https://raw.githubusercontent.com/imccw/media/refs/heads/main/direct-page/pifindustries/m2.jpg
+https://raw.githubusercontent.com/imccw/media/refs/heads/main/direct-page/pifindustries/m1.jpg
+https://raw.githubusercontent.com/imccw/media/refs/heads/main/direct-page/pifindustries/l1.jpg
+https://raw.githubusercontent.com/imccw/media/refs/heads/main/direct-page/pifindustries/x1.jpg
